@@ -5,6 +5,7 @@ class SparseArray {
         //111111111
         //2222222
         //h1111111
+        //h1111111
         int index1=0;
         int index2=prices.length-1;
         int max=Integer.MIN_VALUE;
