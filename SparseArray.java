@@ -6,6 +6,8 @@ class SparseArray {
         //2222222
         //h1111111
         //h1111111
+        //pull test
+        
         int index1=0;
         int index2=prices.length-1;
         int max=Integer.MIN_VALUE;
