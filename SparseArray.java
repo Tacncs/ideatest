@@ -2,6 +2,7 @@ package Arrays;
 
 class SparseArray {
     public int maxProfit(int[] prices) {
+        //111111111
         int index1=0;
         int index2=prices.length-1;
         int max=Integer.MIN_VALUE;
